@@ -110,8 +110,8 @@ inconsistent formats, and irrelevant data.
 
 <h2>🤝 Connect With Me</h2>
 <p>
-📌 LinkedIn: <a href="https://www.linkedin.com/in/mahmudul-hasan-15a292399/">Your Profile</a><br>
-📌 GitHub: <a href="https://github.com/mahmudulhasantechnology-cmyk">Your Profile</a>
+📌 LinkedIn: <a href="https://www.linkedin.com/in/mahmudul-hasan-15a292399/">lınkedln</a><br>
+📌 GitHub: <a href="https://github.com/mahmudulhasantechnology-cmyk">Github</a>
 </p>
 
 

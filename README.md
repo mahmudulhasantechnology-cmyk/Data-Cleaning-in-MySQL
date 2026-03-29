@@ -1,62 +1,119 @@
-  Project Title
+<h1 align="center">📊 Data Cleaning in MySQL</h1>
+<h3 align="center">Real-World Data Cleaning Project using SQL</h3>
 
-Data Cleaning in MySQL – Real-World Dataset Project
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-MySQL-blue?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/Skill-Data%20Cleaning-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Project-orange?style=for-the-badge">
+</p>
 
-  Overview
+<hr>
 
-This project demonstrates how to clean and preprocess raw data using MySQL. The dataset contained inconsistencies such as missing values, duplicates, incorrect formats, and irrelevant data.
+<h2>📌 Overview</h2>
+<p>
+This project demonstrates how to transform <b>raw, messy data</b> into a 
+<b>clean, structured dataset</b> using <b>MySQL</b>.  
+The dataset contained real-world issues such as missing values, duplicates, 
+inconsistent formats, and irrelevant data.
+</p>
 
-The goal of this project is to transform messy data into a clean, structured format suitable for analysis.
+<p>
+🎯 <b>Goal:</b> Prepare high-quality data suitable for analysis and decision-making.
+</p>
 
-  Objectives
-Remove duplicate records
-Handle missing/null values
-Standardize inconsistent data formats
-Fix data type issues
-Prepare dataset for analysis
-  Tools & Technologies
-MySQL
-SQL Queries
-Data Cleaning Techniques
-  Dataset
-Source: (Kaggle / other source – add link if possible)
-Description: Briefly explain what the dataset is about
-  Data Cleaning Steps
-1. Removing Duplicates
+<hr>
 
-Used SQL queries to identify and delete duplicate rows.
+<h2>🎯 Objectives</h2>
+<ul>
+  <li>✔ Remove duplicate records</li>
+  <li>✔ Handle missing/null values</li>
+  <li>✔ Standardize inconsistent formats</li>
+  <li>✔ Fix incorrect data types</li>
+  <li>✔ Prepare dataset for analysis</li>
+</ul>
 
-2. Handling Missing Values
+<hr>
 
-Replaced or removed null values depending on relevance.
+<h2>🛠️ Tools & Technologies</h2>
+<ul>
+  <li><b>MySQL</b></li>
+  <li><b>SQL Queries</b></li>
+  <li><b>Data Cleaning Techniques</b></li>
+</ul>
 
-3. Standardizing Data
-Fixed inconsistent date formats
-Standardized text values (e.g., country names, categories)
-4. Data Type Conversion
+<hr>
 
-Converted columns into appropriate data types (e.g., string → date).
+<h2>📂 Dataset</h2>
+<p>
+<b>Source:</b> Kaggle (Add your dataset link here)<br>
+<b>Description:</b> Briefly describe the dataset (e.g., sales data, customer data, etc.)
+</p>
 
-5. Removing Unnecessary Columns
+<hr>
 
-Dropped irrelevant columns to improve dataset quality.
+<h2>🧹 Data Cleaning Process</h2>
 
-  Results
-Clean, structured dataset ready for analysis
-Improved data consistency and accuracy
-Reduced redundancy
-  Project Screenshots
+<h3>1️⃣ Removing Duplicates</h3>
+<p>Identified and removed duplicate records using SQL queries to ensure data uniqueness.</p>
 
-(Add your images here – I’ll explain below what to include 👇)
+<h3>2️⃣ Handling Missing Values</h3>
+<p>Replaced or removed null values based on business relevance.</p>
 
-  Key Learnings
-Practical experience in SQL data cleaning
-Writing efficient queries
-Handling real-world messy data
-  Future Improvements
-Automate cleaning process using scripts
-Perform exploratory data analysis (EDA)
-Build dashboard using Power BI / Tableau
-🤝 Connect With Me
+<h3>3️⃣ Standardizing Data</h3>
+<ul>
+  <li>✔ Fixed inconsistent date formats</li>
+  <li>✔ Standardized text values (e.g., country names, categories)</li>
+</ul>
 
-(Add your LinkedIn / GitHub)
+<h3>4️⃣ Data Type Conversion</h3>
+<p>Converted columns into appropriate formats (e.g., string → date).</p>
+
+<h3>5️⃣ Removing Unnecessary Columns</h3>
+<p>Dropped irrelevant columns to improve dataset quality and performance.</p>
+
+<hr>
+
+<h2>📈 Results</h2>
+<ul>
+  <li>✅ Clean and structured dataset ready for analysis</li>
+  <li>✅ Improved data consistency and accuracy</li>
+  <li>✅ Reduced redundancy and noise</li>
+</ul>
+
+<hr>
+
+<h2>🖼️ Project Screenshots</h2>
+<p align="center">
+  <img src="your-image-link-1" width="600"><br><br>
+  <img src="your-image-link-2" width="600">
+</p>
+
+<hr>
+
+<h2>📚 Key Learnings</h2>
+<ul>
+  <li>💡 Hands-on experience with SQL data cleaning</li>
+  <li>💡 Writing optimized and efficient queries</li>
+  <li>💡 Handling real-world messy datasets</li>
+</ul>
+
+<hr>
+
+<h2>🚀 Future Improvements</h2>
+<ul>
+  <li>🔹 Automate cleaning using Python scripts</li>
+  <li>🔹 Perform Exploratory Data Analysis (EDA)</li>
+  <li>🔹 Build dashboards using Power BI / Tableau</li>
+</ul>
+
+<hr>
+
+<h2>🤝 Connect With Me</h2>
+<p>
+📌 LinkedIn: <a href="your-linkedin-link">Your Profile</a><br>
+📌 GitHub: <a href="your-github-link">Your Profile</a>
+</p>
+
+<hr>
+
+<p align="center">⭐ If you found this project helpful, consider giving it a star!</p>)

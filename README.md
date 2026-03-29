@@ -84,7 +84,7 @@ inconsistent formats, and irrelevant data.
 
 <h2>🖼️ Project Screenshots</h2>
 <p align="center">
-  <img src="[your-image-link-1](https://github.com/mahmudulhasantechnology-cmyk/Data-Cleaning-in-MySQL/blob/main/After_Cleaning_Date.png)" width="600"><br><br>
+  <img src="After_Cleaning_Date.png" width="600"><br><br>
   <img src="your-image-link-2" width="600">
 </p>
 
